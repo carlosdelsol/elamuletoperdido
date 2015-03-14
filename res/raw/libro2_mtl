@@ -1,0 +1,24 @@
+# Blender3D MTL File: Book.blend
+# Material Count: 2
+newmtl fletet_mono.jpg
+Ns 0.000000
+Ka 0.000000 0.000000 0.000000
+Kd 0.800000 0.800000 0.800000
+Ks 0.500000 0.500000 0.500000
+Ni 1.000000
+d 1.000000
+illum 2
+map_Kd mono.jpg
+
+
+newmtl liber4_mono.jpg
+Ns 96.078431
+Ka 0.000000 0.000000 0.000000
+Kd 0.493737 0.314695 0.314695
+Ks 0.500000 0.500000 0.500000
+Ni 1.000000
+d 1.000000
+illum 2
+map_Kd mono.jpg
+
+

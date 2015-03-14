@@ -1,0 +1,39 @@
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android" 
+			    android:layout_width="fill_parent" 
+			    android:layout_height="fill_parent"
+			    android:layout_gravity="center_vertical|center_horizontal"> 
+        
+    <ImageSwitcher android:id="@+id/switcher"
+				    android:layout_width="fill_parent"
+				    android:layout_height="fill_parent"
+				    android:layout_alignParentTop="true"
+				    android:layout_alignParentLeft="true">				    
+    </ImageSwitcher>
+    
+    <TextView android:textColor="#c50000" 
+    		  android:textStyle="bold" 
+    		  android:shadowRadius="1.5" 
+    		  android:shadowColor="#ff7200" 
+    		  android:shadowDx="1" 
+    		  android:shadowDy="1" 
+    		  android:textSize="60sp" 
+    		  android:id="@+id/textoIndice" 
+    		  android:text="@string/indice" 
+    		  android:layout_height="wrap_content" 
+    		  android:layout_width="wrap_content" 
+    		  android:layout_centerHorizontal="true" 
+    		  android:paddingRight="80dp" 
+    		  android:paddingTop="40dp"
+    		  android:background="#55000000"/>
+    
+    
+   <Gallery android:id="@+id/gallery"
+		    android:background="#55000000"
+		    android:layout_width="fill_parent"
+		    android:layout_alignParentLeft="true"
+		    android:spacing="16dp" 
+		    android:layout_height="150dp" 
+		    android:gravity="center_vertical" 
+		    android:layout_centerVertical="true"/>
+		    
+</RelativeLayout>

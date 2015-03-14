@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="hello">PF Carlos del Sol</string>
+    <string name="app_name">El amuleto perdido</string>
+    
+    <string-array name="ejemplos_array">
+        <item>Página 1</item>
+        <item>Página 2</item>
+        <item>Página 3</item>
+        <item>Página 4</item>
+        <item>Página 5</item>
+        <item>Juego Reutilizar</item>
+        <item>Página 6</item>
+        <item>Juego Reciclaje</item>
+        <item>Página 7</item>
+        <item>Juego Reducir</item>
+        <item>Fin</item>
+    </string-array>
+
+    <string name="boton_siguiente">Siguiente</string>    
+    <string name="txtGanado">¡Has Ganado!</string>
+    <string name="txtPerdido">Has perdido</string>
+    <string name="tiempo">Tiempo: </string>
+    <string name="puntos">Puntos: </string>
+    <string name="puntosJuegoPuzzle">Puntos:</string>
+    <string name="indice">Indice</string>
+    <string name="salir">Salir</string>
+    
+    <string name="acercade">Acerca de</string>
+    <string name="nombreAlumno">Carlos del Sol González</string>
+    <string name="TituloAlumno">Proyecto final de máster</string>
+    <string name="universidadAlumno">Universidad Rey Juan Carlos</string>
+    
+    <string-array name="RED_PREG">
+        <item>Si no estas en una habitación la luz hay que tenerla...</item>
+        <item>Mientas te lavas los dientes o cuando ayudes a fregar los platos debes...</item>
+        <item>Si no hay nadie viendo la tele hay que dejarla...</item>
+        <item>En invierno la calefacción hay que tenerla a...</item>
+    </string-array>
+    <string-array name="RED_RESP1">
+        <item>Encendida</item>
+        <item>Apagada</item>
+        <item>Da igual</item>
+    </string-array>
+    <string-array name="RED_RESP2">
+        <item>Cerrar el grifo</item>
+        <item>Dejarlo abierto</item>
+        <item>Da igual</item>
+    </string-array>
+        <string-array name="RED_RESP3">
+        <item>Encendida</item>
+        <item>Stand by</item>
+        <item>Apagada</item>
+    </string-array>
+        <string-array name="RED_RESP4">
+        <item>25º</item>
+        <item>21º</item>
+        <item>27º</item>
+    </string-array>
+</resources>
